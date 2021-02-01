@@ -9,6 +9,9 @@
 
 Additional documentation can be found at the [Marlin Home Page](https://marlinfw.org/).
 Please test this firmware and let us know if it misbehaves in any way. Volunteers are standing by!
+## HISTORY
+This repository is MARLIN_NEW, and this will be my final version where I'll be able to accurately utililize github and it's
+version tracking of my edits.
 
 ## Marlin 2.0
 
